@@ -1,0 +1,6 @@
+# Publiczne są tylko te pliki; jawna strona, umowy i skrypty zostają lokalnie.
+*
+!.gitignore
+!.nojekyll
+!README.md
+!kontrpropozycja.szyfr.html
